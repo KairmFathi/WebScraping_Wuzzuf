@@ -1,5 +1,5 @@
-!pip install pandas openpyxl xlsxwriter --quie
-!pip install selenium --quit
+!pip install pandas openpyxl xlsxwriter --quiet
+!pip install selenium --quiet
 from selenium.webdriver import Chrome
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
